@@ -1,0 +1,9 @@
+########## Sample info ##########
+Sample used: /content/drive/MyDrive/datasets/samples/fiction-500k-cleaned.txt
+
+########## Errorifier info ##########
+misinflect, prob 0.35
+mispreposition, prob 0.4
+misgender, prob 0.25
+Errorification datetime: 2023-02-18 23:15:04
+
