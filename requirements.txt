@@ -1,0 +1,5 @@
+transformers
+datasets
+pymorphy2
+pymorphy2-dicts-uk
+spacy_udpipe

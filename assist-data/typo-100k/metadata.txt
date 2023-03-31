@@ -1,7 +1,0 @@
-########## Sample info ##########
-Sample used: /content/drive/MyDrive/datasets/samples/fiction-500k-cleaned.txt
-
-########## Errorifier info ##########
-generate_typo, prob 0.08
-Errorification datetime: 2023-02-19 03:00:16
-
